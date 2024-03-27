@@ -1,0 +1,19 @@
+.nav{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    gap: 10px;;
+    justify-content: space-between;
+}
+.t-user{
+    background-color: beige;
+    border: 1px solid silver;
+    width: 100%;
+    border-collapse: collapse;
+    text-align: center;
+}
+.t-user td,.t-user th{
+    border: 1px solid silver;
+    padding: 8px;
+}
